@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='kog2p-fork',
+    name='kog2p_fork',
     version='0.0.1',
     description='fork version of KoG2P',
     url='https://github.com/crlotwhite/KoG2P-fork.git',
