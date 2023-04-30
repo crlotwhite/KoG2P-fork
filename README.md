@@ -1,4 +1,6 @@
 # KoG2P
+프로젝트 이식용 개조 버전입니다.
+---
 Given an input of a series of Korean graphemes/letters (i.e. Hangul), KoG2P outputs the corresponding pronunciations.
 
 한국어의 문자열로부터 발음열을 생성하는 파이썬 기반 G2P 패키지입니다.  
@@ -17,7 +19,7 @@ NB. Your input does not necessarily need to be a lemma or a legitimate sequence 
 
   
 ## Requirement
-- Python 2.7 or 3.x
+- 3.x
 
   
 ## Symbol table
