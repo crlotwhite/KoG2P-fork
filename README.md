@@ -1,5 +1,18 @@
 # KoG2P
+
 프로젝트 이식용 개조 버전입니다.
+
+설치
+```
+pip install git+https://github.com/crlotwhite/KoG2P_fork.git
+```
+
+사용법
+```py
+import kog2p 
+
+kog2p.runKoG2P('안녕')
+```
 ---
 Given an input of a series of Korean graphemes/letters (i.e. Hangul), KoG2P outputs the corresponding pronunciations.
 
