@@ -1,1 +1,1 @@
-from g2p import *
+from .g2p import *
